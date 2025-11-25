@@ -3,6 +3,8 @@ A modern, fast, and user-friendly **Lost & Found management system** built using
 
 This system allows students to report lost items, search for found items, and enables authorized admins to manage found objects and resolve lost cases.
 
+To directly access the project go to: https://university-lost-found-sys.streamlit.app
+
 ---
 
 ## 🌟 Key Features
